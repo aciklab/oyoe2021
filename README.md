@@ -1,9 +1,9 @@
 # oyoe2021
 
-- Basit web örneğine [web örneği](https://github.com/aciklab/oyoe2021/tree/main/basit-web-sitesi) adresinden ulaşabilirsiniz.
+- Basit web örneğine [web örneği](https://github.com/aciklab/oyoe2021/tree/master/basit-web-sitesi) adresinden ulaşabilirsiniz.
 
 ### Kullanılan Materyaller
-- Kullanılan slaytı buradan [sunum](https://github.com/aciklab/oyoe2021/blob/main/materyaller/pardus.pdf) bağlantısından indirebilirsiniz.
+- Kullanılan slaytı buradan [sunum](https://github.com/aciklab/oyoe2021/blob/master/materyaller/pardus.pdf) bağlantısından indirebilirsiniz.
 
 ### Eklenti Ödevi
 Eklenti geliştirmeye başlayacaklar için aşağıdaki git deposundan çekilerek üzerine geliştirme yapılabilir, yapılan geliştirmeler pull request atılabilir. 
